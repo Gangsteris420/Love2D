@@ -1,0 +1,1 @@
+simple pet management software written in lua and has primitive OOP principles. has no use yet whatsoever, only for simlutory use. In future, could potentially be implemented a feature to save pets that are on the dashboard.
