@@ -6,5 +6,5 @@ simple pet management software written in lua and has primitive OOP principles. 
 2. Open main.lua file from the folder in visual studio code
 3. Download Love2D zip file and extract it
 4. Install Love2D support extension on visual studio code
-5. While having the main.lua file open in visual studio code, open the extracted folder with Love2D contents
+5. While having the main.lua file open in visual studio code, open the extracted folder with Love2D contents in visual studio code
 6. Press alt + L and run the main.lua
