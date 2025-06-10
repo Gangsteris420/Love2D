@@ -1,1 +1,1 @@
-simple pet management software written in lua and has primitive OOP principles. has no use yet whatsoever, only for simlutory use. In future, could potentially be implemented a feature to save pets that are on the dashboard.
+simple pet management software written in lua and has primitive OOP principles. has no use yet whatsoever, only for simlutory use. In future, could potentially be implemented a feature to save pets that are on the dashboard. I know, having everything run is horrible, but it was a project that I was rushing on finishing for my assignment.
